@@ -476,3 +476,6 @@ class Fib(object):
 
 f = Fib()
 print (f(10))
+print (f(9))
+
+

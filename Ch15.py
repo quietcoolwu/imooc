@@ -342,5 +342,6 @@ class Person(object):
 
 p = Person('Bob', 'Male', age=18, course='Python')
 print (p)
-print (p.age)
+#print (p.age)
 print (p.course)
+print (p.gender)
